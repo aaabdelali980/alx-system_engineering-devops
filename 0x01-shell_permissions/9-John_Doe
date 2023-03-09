@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxr-x-wx hell#!/bin/bash
+chmod 753 hello 
